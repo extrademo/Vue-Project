@@ -1,0 +1,17 @@
+{
+  "register": [
+    {
+      "id": 875,
+      "name": "Prashant",
+      "email": "prashant@gmail.com",
+      "password": "2005moliya"
+    },
+    {
+      "id": 720,
+      "name": "om",
+      "email": "om@gmail.com",
+      "password": "11111"
+    }
+  ],
+  "login": []
+}
